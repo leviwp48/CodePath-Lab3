@@ -6,7 +6,7 @@
 
 ### App Description
 
-`TODO://` Add app description
+This app is a debugged form of the debugging challenge lab. All the functions assigned are now functional. 
 
 ### App Walk-though
 
@@ -18,7 +18,7 @@
 
 ## Required
 
-- [ ] Milestone 1 - What Day Is It
-- [ ] Milestone 2 - Background Changer
-- [ ] Milestone 3 - Toolbar!
-- [ ] Milestone 4 - View movies
+- [x] Milestone 1 - What Day Is It
+- [x] Milestone 2 - Background Changer
+- [x] Milestone 3 - Toolbar!
+- [x] Milestone 4 - View movies
