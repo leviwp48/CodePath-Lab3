@@ -52,7 +52,7 @@ public class MoviesAdapter extends ArrayAdapter<Movie> {
         tvRating.setText(ratingText);
 
         Glide.with(getContext()).load(movie.getPosterUrl()).into(ivPoster);
-*
+
         // Return the completed view to render on screen
         return convertView;
     }
