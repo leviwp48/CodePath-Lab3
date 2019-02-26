@@ -6,7 +6,7 @@ This app is a debugged form of the debugging challenge lab. All the functions as
 
 ### App Walk-though
 
-<img src="https://github.com/leviwp48/CodePath-Lab3/blob/master/codePathLab3.gif" width=200><br>
+<img src="https://github.com/leviwp48/CodePath-Lab3/blob/master/walkthrough.gif" width=200><br>
 
 ## Features
 
